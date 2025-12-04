@@ -1,0 +1,1 @@
+{\n  "extends": "../tsconfig.base.json",\n  "compilerOptions": {\n    "jsx": "react-jsx",\n    "target": "esnext",\n    "module": "esnext",\n    "moduleResolution": "node",\n    "strict": true,\n    "esModuleInterop": true,\n    "skipLibCheck": true,\n    "forceConsistentCasingInFileNames": true\n  },\n  "include": [\n    "src"\n  ],\n  "exclude": [\n    "node_modules"\n  ]\n}
